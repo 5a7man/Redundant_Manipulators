@@ -16,3 +16,4 @@ Run Null_Space.m to view manipulator's motion
 ### Task Priority
 Run Task_Priority.m to view manipulator's motion 
 
+[![](/Redundant_Manipulators/KUKA_IIWA_LBR14_R820/KUKA_IIWA_LBR14_R820.mp4/0.jpg)](/Redundant_Manipulators/KUKA_IIWA_LBR14_R820/KUKA_IIWA_LBR14_R820.mp4)

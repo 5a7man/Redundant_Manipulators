@@ -2,7 +2,7 @@ function robot(Joint_Angles,Link_Lengths)
 
 cla
 hold on
-view(2) % 10,10
+view(2) 
 grid on
 axis([-1 1 -1 1 -1 1]) 
 

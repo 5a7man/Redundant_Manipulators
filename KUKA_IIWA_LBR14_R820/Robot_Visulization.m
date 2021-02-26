@@ -13,7 +13,7 @@ function robot(Joint_Angles,Link_Lengths)
 
 cla
 hold on
-view(10,10)
+view(10,50)
 grid on
 axis([-1 1 -1 1 -1 1]) 
 T01 = Tz(Link_Lengths(1));

@@ -2,7 +2,7 @@
 Motion Visualization of Redundant Manipulators
 
 ## KUKA IIWA LBR14 R820 Manipulator
-Motion Visualization of KUKA IIWA LBR14 R820 Manipulator (run Motion_Visualization.m/KUKA_IIWA_LBR14_R820.mp4)
+Motion Visualization of KUKA IIWA LBR14 R820 Manipulator (run Motion_Visualization.m or KUKA_IIWA_LBR14_R820.mp4)
 
 ### Weighted Pseudo Inverse
 Run Weighted_Pseudo_Inverse.m to view manipulator's motion 
